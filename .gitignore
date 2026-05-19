@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp/Build files
+build_report.py
+generate_screenshots.py
+report_text.txt
+img_data.py
+
+# Friend's report (not part of this project)
+MENTAL HEALTH ANALYZER_report.pdf
+Untitled document (1).pdf
+
+# Report HTML (too large for GitHub)
+Student_Performance_Report.html
+Student_Performance_Report.md
+
+# Viva prep (personal)
+viva_questions.html
